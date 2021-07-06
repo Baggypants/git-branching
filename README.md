@@ -1,3 +1,3 @@
 # git-branching
 
-lalalal raw backend - by Leon
+lalalal raw backend - by Leon L. Robinson
